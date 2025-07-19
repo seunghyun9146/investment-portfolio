@@ -18,13 +18,6 @@ BeautifulSoup - 웹 크롤링
 transformers (KoBART)
 PyQt5 - GUI 구현
 
-폴더구조
-news_crawler_project/
-├── data/
-│   └── naver_news.csv       # 저장된 뉴스 데이터
-├── main.py                  # 실행 파일 (위의 코드)
-├── README.md
-
 설치방법
 # 가상환경 권장
 pip install -r requirements.txt
